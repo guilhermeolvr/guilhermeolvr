@@ -1,0 +1,26 @@
+### Eae, beleza me chamo Guilherme Augusto 👋
+
+
+
+- 🔭 Por enquanto não trabalho, porém estou em busca de um estágio ou outra funçao que me possa agregar conhecimento nesse inicio de carreira  ...
+- 🌱 Atualmente estudo engenharia da computação no 4 semestre ...
+- 👀 Focado na programação C++, C#, JAVA, Python...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...  
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+ <div>
+  <a href="https://github.com/guilhermeolvr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermeolvr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermeolvr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
